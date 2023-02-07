@@ -2,6 +2,7 @@
 Materiale del secondo anno UniTo informatica.
 
 ### Primo semestre
+- Elementi di probabilità e statistica
 
 ### Secondo semestre
 - [Fisica]()
