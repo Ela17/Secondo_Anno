@@ -2,8 +2,8 @@
 Materiale del secondo anno UniTo informatica.
 
 ### Primo semestre
-- [Elementi di probabilità e statistica]()
+- [Elementi di probabilità e statistica](https://github.com/Ela17/Secondo_Anno/tree/main/EPS)
 
 ### Secondo semestre
-- [Fisica]()
+- [Fisica](https://github.com/Ela17/Secondo_Anno/tree/main/Fisica)
 - [Economia e gestione dell'impresa e Diritto]()
