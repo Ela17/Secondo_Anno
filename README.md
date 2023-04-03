@@ -6,4 +6,3 @@ Materiale del secondo anno UniTo informatica.
 
 ### Secondo semestre
 - [Fisica](https://github.com/Ela17/Secondo_Anno/tree/main/Fisica)
-- [Economia e gestione dell'impresa e Diritto]()
